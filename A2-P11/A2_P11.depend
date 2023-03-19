@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1652534138 source:d:\mohamed\c++ projects\a2_p11\main.cpp
+	<iostream>
+	"BST.h"
+
+1652648147 d:\mohamed\c++ projects\a2_p11\bst.h
+	<iostream>
+
+1652658088 source:e:\university\second term\data structrue\assignment 2\a2-p2-20200442-20201120-20201217-20201043\a2-p11-20200442-20201120-20201217-20201043\main.cpp
+	<iostream>
+	"BST.h"
+
+1652658088 e:\university\second term\data structrue\assignment 2\a2-p2-20200442-20201120-20201217-20201043\a2-p11-20200442-20201120-20201217-20201043\bst.h
+	<iostream>
+

@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1652572594 source:d:\mohamed\c++ projects\a2_p1\main.cpp
+	<iostream>
+	<string>
+	"linkedlistStack.h"
+
+1652572481 d:\mohamed\c++ projects\a2_p1\linkedliststack.h
+	<iostream>
+	<bits/stdc++.h>
+
+1652644306 source:d:\progects\a2_p1\main.cpp
+	<iostream>
+	<string>
+	"linkedlistStack.h"
+
+1652572482 d:\progects\a2_p1\linkedliststack.h
+	<iostream>
+	<bits/stdc++.h>
+
+1652644450 source:e:\university\second term\data structrue\assignment 2\a2-p2-20200442-20201120-20201217-20201043\a2-p1-20200442-20201120-20201217-20201043\main.cpp
+	<iostream>
+	<string>
+	"linkedlistStack.h"
+
+1652572482 e:\university\second term\data structrue\assignment 2\a2-p2-20200442-20201120-20201217-20201043\a2-p1-20200442-20201120-20201217-20201043\linkedliststack.h
+	<iostream>
+	<bits/stdc++.h>
+
